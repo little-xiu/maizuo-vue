@@ -1,0 +1,45 @@
+
+@font-face {font-family: "iconfont";
+  src: url('../fonts/iconfont.ttf?t=1531832280558') format('truetype'); /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrowdown:before { content: "\e629"; }
+
+.icon-yingyuanxinxiqupiaoji:before { content: "\e655"; }
+
+.icon-user:before { content: "\e6a3"; }
+
+.icon-3dyanjing:before { content: "\e6d7"; }
+
+.icon-arrow:before { content: "\e64d"; }
+
+.icon-tag10:before { content: "\e659"; }
+
+.icon-menu:before { content: "\e60b"; }
+
+.icon-bus:before { content: "\e600"; }
+
+.icon-dianhua:before { content: "\e627"; }
+
+.icon-zuowei:before { content: "\e630"; }
+
+.icon-youhui:before { content: "\e601"; }
+
+.icon-tingche:before { content: "\e7b7"; }
+
+.icon-shezhiqupiaozhi-:before { content: "\e618"; }
+
+.icon-arrow-down:before { content: "\e9d8"; }
+
+.icon-arrow-up:before { content: "\e9d9"; }
+
+.icon-location:before { content: "\e602"; }
+
